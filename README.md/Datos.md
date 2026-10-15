@@ -7,9 +7,13 @@ Comprender y aplicar los conceptos fundamentales de la Programación Orientada a
 ## 2. Integrantes
 
 - **Francis Bonifaz**
+Implementación de la clase Estudiante y definición de sus atributos. Implementación de la clase Principal, creación de los tres objetos y visualización de sus datos.
 - **Sebastian Navas**
+Crear el repositorio, asignar actividades, subir portada en formato README.
 - **David Punina**
+Comprobar los códigos en java y subir evidencias al repositorio.
 - **Dixon Prado**
+Elaboración del diagrama de clases, edición del documento y verificación de sus respuestas.
 
 ## 3. Descripción del proyecto
 
@@ -23,17 +27,6 @@ Este ejercicio permite comprender la relación entre las clases, los atributos y
 
 El siguiente diagrama representa la estructura de la clase `Estudiante` y los atributos que la conforman.
 
-```text
-+----------------------------------+
-|            Estudiante            |
-+----------------------------------+
-| - nombre: String                 |
-| - apellido: String               |
-| - edad: int                      |
-| - carrera: String                |
-| - semestre: int                  |
-+----------------------------------+
-```
 <img width="915" height="533" alt="image" src="https://github.com/user-attachments/assets/5e7f32c1-7cd1-4d0f-8f91-1773048499b3" />
 
 **Descripción de los atributos:**
