@@ -34,6 +34,7 @@ El siguiente diagrama representa la estructura de la clase `Estudiante` y los at
 | - semestre: int                  |
 +----------------------------------+
 ```
+<img width="915" height="533" alt="image" src="https://github.com/user-attachments/assets/5e7f32c1-7cd1-4d0f-8f91-1773048499b3" />
 
 **Descripción de los atributos:**
 
